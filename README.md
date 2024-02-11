@@ -10,7 +10,5 @@ Implemented advanced cryptographic security measures.
 Optimized threat intelligence platforms for improved resilience.
 This portfolio is a testament to my commitment to cybersecurity excellence, featuring selected projects and case studies that demonstrate my expertise. For collaborations or inquiries, please reach out.
 
-📧 Contact: john@isamahub.com
-🔗 LinkedIn:(https://www.linkedin.com/in/john-isama/)https://www.linkedin.com/in/john-isama/
 
 Thank you for visiting my portfolio.
